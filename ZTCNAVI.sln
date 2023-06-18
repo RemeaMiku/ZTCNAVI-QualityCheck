@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZTCNAVI", "ZTCNAVI\ZTCNAVI.csproj", "{3EB7F8F9-117A-4439-AA65-6C774A200BA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EB7F8F9-117A-4439-AA65-6C774A200BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB7F8F9-117A-4439-AA65-6C774A200BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB7F8F9-117A-4439-AA65-6C774A200BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB7F8F9-117A-4439-AA65-6C774A200BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {403CA2AA-8C3D-4964-A84B-4D47C5853F9C}
+	EndGlobalSection
+EndGlobal

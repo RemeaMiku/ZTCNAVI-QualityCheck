@@ -1,0 +1,44 @@
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\ZTCNAVI\ZTCNAVI\bin\Debug\ZTCNAVI.exe.config
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\ZTCNAVI\ZTCNAVI\bin\Debug\ZTCNAVI.exe
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\ZTCNAVI\ZTCNAVI\bin\Debug\ZTCNAVI.pdb
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\ZTCNAVI\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.AssemblyReference.cache
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\ZTCNAVI\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.SuggestedBindingRedirects.cache
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\ZTCNAVI\ZTCNAVI\obj\Debug\ZTCNAVI.Properties.Resources.resources
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\ZTCNAVI\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.GenerateResource.cache
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\ZTCNAVI\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.CoreCompileInputs.cache
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\ZTCNAVI\ZTCNAVI\obj\Debug\ZTCNAVI.exe
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\ZTCNAVI\ZTCNAVI\obj\Debug\ZTCNAVI.pdb
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\ZTCNAVI\ZTCNAVI\obj\Debug\ZTCNAVI.MainForm.resources
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\bin\Debug\ZTCNAVI.exe.config
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\bin\Debug\ZTCNAVI.exe
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\bin\Debug\ZTCNAVI.pdb
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.AssemblyReference.cache
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.SuggestedBindingRedirects.cache
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.MainForm.resources
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.Properties.Resources.resources
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.GenerateResource.cache
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.CoreCompileInputs.cache
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.exe
+D:\RemeaMiku study\进行课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.pdb
+D:\RemeaMiku study\结束课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\bin\Debug\ZTCNAVI.exe.config
+D:\RemeaMiku study\结束课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\bin\Debug\ZTCNAVI.exe
+D:\RemeaMiku study\结束课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\bin\Debug\ZTCNAVI.pdb
+D:\RemeaMiku study\结束课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.AssemblyReference.cache
+D:\RemeaMiku study\结束课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.SuggestedBindingRedirects.cache
+D:\RemeaMiku study\结束课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.MainForm.resources
+D:\RemeaMiku study\结束课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.Properties.Resources.resources
+D:\RemeaMiku study\结束课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.GenerateResource.cache
+D:\RemeaMiku study\结束课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.CoreCompileInputs.cache
+D:\RemeaMiku study\结束课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.exe
+D:\RemeaMiku study\结束课程\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.pdb
+D:\RemeaMiku study\finished course\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\bin\Debug\ZTCNAVI.exe.config
+D:\RemeaMiku study\finished course\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\bin\Debug\ZTCNAVI.exe
+D:\RemeaMiku study\finished course\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\bin\Debug\ZTCNAVI.pdb
+D:\RemeaMiku study\finished course\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.AssemblyReference.cache
+D:\RemeaMiku study\finished course\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.SuggestedBindingRedirects.cache
+D:\RemeaMiku study\finished course\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.MainForm.resources
+D:\RemeaMiku study\finished course\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.Properties.Resources.resources
+D:\RemeaMiku study\finished course\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.GenerateResource.cache
+D:\RemeaMiku study\finished course\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.csproj.CoreCompileInputs.cache
+D:\RemeaMiku study\finished course\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.exe
+D:\RemeaMiku study\finished course\2022暑假专业实习\Project\2020302142257周天晨\ZTCNAVI\obj\Debug\ZTCNAVI.pdb
